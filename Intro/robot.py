@@ -3,7 +3,7 @@
 print ("Welcome, a la cafeteria Tia Rosa")
 
 #Captura del dato utilice input
-user_name = input("Cual es tu nombre?: \n \t")
+user_name = input("Cual es tu nombre?: \n \t") #CAptura los datos desde el teclado en una variable
 
 menu = "Cafe, Te y Agua"
 
